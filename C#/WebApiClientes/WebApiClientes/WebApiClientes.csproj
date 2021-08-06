@@ -86,8 +86,6 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\ClientesController.cs" />
-    <Compile Include="Controllers\Usuario.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="DAO\BancoDados.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
